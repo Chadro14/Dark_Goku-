@@ -2,15 +2,15 @@ const fs = require('fs')
 const file = require.resolve(__filename)
 
 
-global.ownerNumber = ["50938025349@s.whatsapp.net"]
-global.nomerOwner = "50938025349"
-global.nomorOwner = ['50938025349']
-global.namaDeveloper = "乃匚ㄒㄖㄖㄥ丂" //jangn diubh bng
-global.namaOwner = "乃匚ㄒㄖㄖㄥ丂"
-global.namaBot = "bctools-bot"
+global.ownerNumber = ["243905526836@s.whatsapp.net"]
+global.nomerOwner = "243905526836"
+global.nomorOwner = ['243905526836']
+global.namaDeveloper = "Son Altesse Royal" //jangn diubh bng
+global.namaOwner = "Son Altess Royal"
+global.namaBot = "Dark-Goku"
 global.versionBot = "ꪜ1"
-global.packname = "𝐁𝐂𝐓𝐎𝐎𝐋𝐒 𝐎𝐅𝐂 ꪜ1"
-global.author = "✨ BCTOOLS OFC MD ✨"
+global.packname = "Dark Goku ꪜ1"
+global.author = "✨ Dark Goku ✨"
 global.ThM = 'https://iili.io/2yFPx0F.png'
 global.prefa = ['','!','.',',','🐤','⛓️'] 
 global.travaSend = "1" // total travas a ser enviado
