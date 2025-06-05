@@ -6,7 +6,7 @@
             alt="Dark Goku" 
             width="720"
             height="420" 
-            src="https://i.ibb.co/q3QQGpCP/fam-ofc.jpg" 
+            src="https://files.catbox.moe/t5orih.jpeg" 
             style="border: 4px solid #FF69B4; 
                    border-radius: 20px; 
                    box-shadow: 0 8px 24px rgba(255, 105, 180, 0.3);"
