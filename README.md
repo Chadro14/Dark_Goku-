@@ -56,7 +56,7 @@
 
 
 
-       les commandes termux sont en cours🔁👨‍💻
+       
    
 
 
